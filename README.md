@@ -12,3 +12,7 @@ Early build / active iteration.
 ## Next steps
 - Decide stack (static / Next.js / Vite / etc.)
 - Enable GitHub Pages (or deploy elsewhere)
+
+## Community
+Questions, ideas, and proposals live here:
+- KindPath Discussions: https://github.com/S4mu3lD4v1d/kindpath-starter/discussions

@@ -14,5 +14,7 @@ Early build / active iteration.
 - Enable GitHub Pages (or deploy elsewhere)
 
 ## Community
-Questions, ideas, and proposals live here:
-- KindPath Discussions: https://github.com/S4mu3lD4v1d/kindpath-starter/discussions
+Website feedback, copy suggestions, structure ideas:
+https://github.com/S4mu3lD4v1d/kindpath-starter/discussions
+
+If something is broken (bug), open an Issue in this repo.
